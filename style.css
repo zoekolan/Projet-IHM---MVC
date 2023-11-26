@@ -1,0 +1,124 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0; /* Supprime les marges par défaut du body */
+  }
+
+header{
+    display : flex;
+    position: relative;
+    width: 100%;
+    justify-content: space-between; 
+    align-items: center; 
+}
+
+ul{
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  background: var(--Base, #E9ECEF);
+  display: flex;
+  flex-direction: column;
+}
+
+.titleInput{
+  height: 4vh;
+  font-size: xx-large;
+  margin: 5%;
+}
+
+.descriptionInput{
+  height: 7vh;
+  font-size: xx-large;
+  margin: 0 5% 5%;
+}
+
+.submissionButton{
+  font-size: xx-large;
+  margin: 0 5% 5%;
+  background: #4e31cd;
+  color: #FBFCFE;
+  border: none;
+  border-radius: 4px;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+.imgRunningCard{
+  margin: 3% auto;
+  width: 80%;
+}
+
+.pageTitle{
+  font-size: 3rem;
+  margin-left: auto;
+}
+
+.iconHeader{
+  padding: 10px;
+  margin-right: auto;
+  width: 50px;
+  height: 50px;
+}
+
+.component-container {
+    display: flex;
+    flex-direction: column;
+    background: #FBFCFE;
+    margin: 7%;
+    padding: 5%;
+  }
+
+.img_container {
+  height: auto;
+}
+  
+footer{
+  position: sticky;
+  bottom: 0;
+  width: 100%;
+  height: 10%;
+}
+
+.footer{
+  display: flex;
+  justify-content: space-between;
+}
+
+.footerPart{
+  padding: 2%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.activePart{
+  background-color: grey;
+}
+
+.user_name {
+  font-weight: bold;
+  margin-left: 10px;
+  font-size: x-large;
+}
+
+.delete-button {
+  background: #cd3131;
+  color: #FBFCFE;
+  border: none;
+  border-radius: 4px;
+  padding: 5px 10px;
+  font-size:  xx-large;
+  cursor: pointer;
+}
+
+.description{
+  font-size: x-large;
+}
+
+.imgFooter{
+  width: 50px;
+  height: 50px;
+}
