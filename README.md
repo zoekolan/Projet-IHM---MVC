@@ -27,7 +27,7 @@ Le projet a été soumis aux tests Lighthouse pour évaluer ses performances. Le
 
 
 ## Conception et Adaptations
-Ce projet s'inspire d'une maquette réalisée dans le cadre du cours d'IHM. Pour répondre à divers critères, des ajustements ont été apportés :
+Ce projet s'inspire d'une maquette réalisée dans le cadre du cours d'IHM (voir Figma.PNG). Pour répondre à divers critères, des ajustements ont été apportés :
 
 - `Contraste amélioré` : Les couleurs ont été ajustées pour augmenter le contraste, facilitant ainsi la lisibilité pour les personnes atteintes de daltonisme.
 
