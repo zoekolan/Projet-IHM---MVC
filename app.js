@@ -1,2 +1,0 @@
-// Application principale
-controller.displayTasks(); 
