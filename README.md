@@ -43,5 +43,5 @@ Ce projet s'inspire d'une maquette réalisée dans le cadre du cours d'IHM (voir
 - `model.js` : Ce fichier définit le modèle de données utilisé dans l'application, incluant les méthodes pour ajouter et récupérer des publications.
 - `view.js` : Il gère l'interface utilisateur et contient la logique pour afficher les publications.
 - `controller.js` : Fichier représentant le contrôleur, responsable de la gestion des interactions utilisateur telles que l'ajout et l'affichage des publications.
-- `app.js` : Ce fichier représente le point d'entrée principal de l'application, appelant les fonctions nécessaires pour afficher les publications dès le chargement de la page.
+
 
